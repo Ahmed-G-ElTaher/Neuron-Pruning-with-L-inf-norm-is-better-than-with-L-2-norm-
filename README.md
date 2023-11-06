@@ -13,5 +13,5 @@
 
 # it's related to the fact of. L-1 ≥ L-2 ≥ L-inf
 
-## ![LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7114118115470282752?utm_source=share&utm_medium=member_desktop)
-## ![Kaggle Code](https://www.kaggle.com/code/ahmedelkelany/pruning-a-neural-network)
+## LinkedIn Post --->  https://www.linkedin.com/feed/update/urn:li:activity:7114118115470282752?utm_source=share&utm_medium=member_desktop
+## Kaggle Code --->  https://www.kaggle.com/code/ahmedelkelany/pruning-a-neural-network)
