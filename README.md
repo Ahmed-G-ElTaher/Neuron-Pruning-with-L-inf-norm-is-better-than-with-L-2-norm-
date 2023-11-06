@@ -11,4 +11,4 @@
 ## why don't we use it ? also in Regularization for models ?
 
 
-# i think it's related to the fact of. L-1 ≥ L-2 ≥ L-inf
+# it's related to the fact of. L-1 ≥ L-2 ≥ L-inf
